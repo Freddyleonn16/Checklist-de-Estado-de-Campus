@@ -1,0 +1,10 @@
+Especificación 
+
+1. El Administrador accede al sistema.
+2. El sistema valida al Administrador.
+3. El Administrador selecciona la opción para registrar un nuevo edificio.
+4. El edificio requiere el ingreso de datos específicos.
+5. Los datos se ingresan por el Administrador y se confirman en el sistema.
+6. El sistema registra el edificio y habilita la opción para agregar aulas.
+7. Las aulas requieren datos adicionales para su registro.
+8. Los datos de las aulas se ingresan y confirman en el sistema.
